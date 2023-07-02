@@ -1,4 +1,4 @@
-# Bytewise Final Project Report                         ##Naveed Hussain (Game Developer)
+# Bytewise Final Project Report                         
 ## •	Description:
 Immerse yourself in the heart-pounding action of our FPS Microgame, a thrilling first-person shooter experience built on the powerful Unity engine. Step into the shoes of a skilled soldier, armed to the teeth with a variety of weapons and gadgets, ready to take on intense combat scenarios. Engage in fast-paced battles across diverse environments, from sprawling urban landscapes to treacherous jungle terrains. Use your tactical skills and precise aim to outmaneuver and eliminate enemy forces, pushing the limits of your reflexes and strategic thinking. With stunning graphics, realistic sound effects, and intuitive controls, our FPS Microgame delivers an adrenaline-fueled adventure that will keep you on the edge of your seat. Get ready to experience the thrill of FPS combat like never before!
 
